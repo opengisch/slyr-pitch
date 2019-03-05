@@ -78,8 +78,8 @@ image inside or with multiple conversion steps.
 ---
 @title[ESRI Symbols]
 ## ESRI Symbols
+![factory](assets/images/binary.png)
 
-TODO: Binary dump image
 - Difficult to interpret binary files
 - Bad ArcGIS Python API for symbols
 
