@@ -94,8 +94,8 @@ you to interact on every aspect of symbols.
 ---
 @title[How Could We Do That?]
 ### How Could We Do That?
+![factory](assets/images/chinese_factory.jpg)  
 By hand?
-![factory](assets/images/chinese_factory.jpg)
 
 
 Note:
