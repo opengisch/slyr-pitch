@@ -1,0 +1,5 @@
+* slyr-pitch
+Repository with SLYR's promotional material (presentations, articles, etc.).
+
+** Coruña 2019 presentation
+   https://gitpitch.com/opengisch/slyr-pitch/coruna_2019?p=coruna_2019
