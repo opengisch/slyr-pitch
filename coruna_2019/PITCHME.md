@@ -2,10 +2,10 @@
 @title[Title]
 
 ## <span class="green">SLYR</span> or:
-###### how I learned to stop worrying about ESRI Symbols!
+#### how I learned to stop worrying about ESRI Symbols!
 <br>
 <br>
-<span class="byline">International User Conference 2019, A Coruña - March 6, 2019</span>
+<span class="byline green">International User Conference 2019, A Coruña - March 6, 2019</span>
 
 Note:
 Good morning, my name is Mario Baranzini, I work for Opengis.ch, a small company
