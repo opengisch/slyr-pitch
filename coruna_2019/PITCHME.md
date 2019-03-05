@@ -1,7 +1,8 @@
+---?image=assets/img/strangelove.jpg
 @title[Title]
 
-## <span class="green">SLYR</span>
-### or: how I learned to stop worrying about ESRI Symbols!
+## <span class="green">SLYR</span> or:
+### how I learned to stop worrying about ESRI Symbols!
 <br>
 <br>
 <span class="byline">International User Conference 2019, A Coruña - March 6, 2019</span>
