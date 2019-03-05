@@ -33,12 +33,17 @@ Open source Geo-spatial Experts at your doorsteps
 ![opengis.ch](assets/images/opengis_team.png)
 
 Note:
-I work in a small distributed company called OpenGIS.ch. We are specialized on open-source GIS and web development for small and medium businesses.
----
-@title[The Problem]
-## The problem
+I work in a small distributed company called OpenGIS.ch. We are
+specialized on open-source GIS and web development for small and medium
+businesses.
 
-Note: 
+--- @title[The Problem]
+## The problem
+- 1203 ESRI Symbols
+- Points, Lines, Polygons
+- Extensive use of ESRI Fonts
+
+Note:
 It all started last year, when a client, a public administration who has
 always worked with ESRI finally decided to support QGIS users and start using it
 to publish their projects. But over the years they have created a library of
