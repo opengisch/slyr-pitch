@@ -1,4 +1,4 @@
----?image=assets/img/strangelove.jpg
+---?image=assets/images/strangelove.jpg
 @title[Title]
 
 ## <span class="green">SLYR</span> or:
