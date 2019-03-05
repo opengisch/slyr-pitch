@@ -1,25 +1,23 @@
 @title[Title]
 
-### Postgres/PostGIS <span class="green">migrations</span> using Python
-#### <span class="green">PUMp your db with PUM</span>
+#### <span class="green">SLYR</span> or: how I learned to stop worrying about ERSI Symbols! 
 <br>
 <br>
-<span class="byline">FOSS4G 2018, Dar es Salaam - August 30, 2018</span>
+<span class="byline">International User Conference 2019, A Coruña - March 5, 2019</span>
 
 Note:
-Good afternoon. Welcome to my presentation about Postgres migrations using Python.
-
-_Pronunciation:_
-Command - coMEND
-Migration - maiGREtion
-Development - diVElopment
-
+Good morning, my name is Mario Baranzini, I work for Opengis.ch, a small company
+in Switzerland that deals with open-source developments mainly related to QGIS.
+Today I want to talk to you about a project to which we have contributed and
+which can help to making the transition from proprietary solutions, or one
+in particular, to QGIS, simpler.
 
 ---
 @title[Who am I?]
 ## Who am <span class="green">I</span>?
 <span class="green">Mario Baranzini</span>  
 BSc in Computer Science  
+CAS in Computing (Software engineering)
 Developer, Consultant, Teacher, Student
 
 Note:
