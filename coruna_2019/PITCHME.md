@@ -37,7 +37,8 @@ I work in a small distributed company called OpenGIS.ch. We are
 specialized on open-source GIS and web development for small and medium
 businesses.
 
---- @title[The Problem]
+--- 
+@title[The Problem]
 ## The problem
 - 1203 ESRI Symbols
 - Points, Lines, Polygons
