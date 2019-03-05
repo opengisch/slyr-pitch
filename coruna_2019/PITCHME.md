@@ -5,6 +5,8 @@
 #### how I learned to stop worrying about ESRI Symbols!
 <br>
 <br>
+<br>
+<br>
 <span class="byline green">International User Conference 2019, A Coruña - March 6, 2019</span>
 
 Note:
