@@ -78,10 +78,19 @@ image inside or with multiple conversion steps.
 ---
 @title[ESRI Symbols]
 ## ESRI Symbols
-![factory](assets/images/binary.png)
 
+@div[left-50]
+<br>
+![factory](assets/images/binary.png)
+@divend
+
+@div[right-50]
+<br><br><br>
+@ul[brighten]
 - Difficult to interpret binary files
 - Bad ArcGIS Python API for symbols
+@ulend
+@divend
 
 Note:
 ESRI symbols are saved in rather complex and difficult to interpret binary
