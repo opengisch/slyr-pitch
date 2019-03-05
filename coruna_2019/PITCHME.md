@@ -2,8 +2,9 @@
 @title[Title]
 
 ## <span class="green">SLYR</span> or:
-### how I learned to stop worrying about ESRI Symbols!
 <br>
+<br>
+### how I learned to stop worrying about ESRI Symbols!
 <br>
 <span class="byline">International User Conference 2019, A Coruña - March 6, 2019</span>
 
