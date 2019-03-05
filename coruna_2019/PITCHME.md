@@ -94,8 +94,8 @@ you to interact on every aspect of symbols.
 ---
 @title[How Could We Do That?]
 ### How Could We Do That?
-![factory](assets/images/chinese_factory.jpg)  
-By hand?
+By hand?  
+![factory](assets/images/chinese_factory.jpg)
 
 
 Note:
@@ -124,7 +124,7 @@ manually. We therefore decided to contribute with Nyall to the development of th
 ---
 @title[SLYR]
 ## SLYR
-TODO: picture of the github page
+![factory](assets/images/slyr.png)
 
 Note:
 
