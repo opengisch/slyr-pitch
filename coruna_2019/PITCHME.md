@@ -18,7 +18,6 @@ in particular, to QGIS, simpler.
 ## Who am <span class="green">I</span>?
 <span class="green">Mario Baranzini</span>  
 BSc in Computer Science  
-CAS in Computing (Software engineering)  
 Developer, Consultant, Teacher, Student
 
 Note:
@@ -40,8 +39,7 @@ businesses.
 ---
 @title[The Problem]
 ## The problem
-
-TODO: picture of library in ARCgis
+![esri symbols](assets/images/esri_symbols.png)
 
 - 1203 ESRI Symbols
 - Points, Lines, Polygons
@@ -123,7 +121,6 @@ manually. We therefore decided to contribute with Nyall to the development of th
 
 ---
 @title[SLYR]
-## SLYR
 ![factory](assets/images/slyr.png)
 
 Note:
@@ -146,6 +143,12 @@ Note:
 +++
 @title[Limitations]
 ## Limitations
+- missing functionalities
+- version dependence
+- only supports .style files
+- requires the mdbtools library
+
+Note:
 - missing functionality in QGIS symbology, e.g. no support for random
   pattern/line fills
 - some symbol types not yet converted, e.g. gradient fills
@@ -156,8 +159,6 @@ Note:
   direct LYR/MXD to QGIS conversion without ESRI software (yet)
 - requires the mdbtools library to read the .style database - it's a bit of a
 pain to install on some platforms.
-
-Note:
 
 +++
 @title[Demo]
