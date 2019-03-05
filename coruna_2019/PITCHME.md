@@ -10,14 +10,13 @@
 <span class="byline green">International User Conference 2019, A Coruña - March 6, 2019</span>
 
 Note:
-Good morning, my name is Mario Baranzini, I work for Opengis.ch, a small company
-in Switzerland that deals with open-source developments mainly related to QGIS.
-Today I want to talk to you about a project to which we have contributed and
-which can help to making the transition from proprietary solutions, or one
-in particular, to QGIS, simpler.
+Good morning, today I want to talk to you about a project to which we have contributed and
+which can help making the transition from proprietary solutions, or one in particular, to QGIS, simpler.
+
 
 ---?image=assets/images/strangelove.jpg
-
+Note:
+The title of the presentation comes form the movie Dr. Strangelove of Kubric.
 ---
 @title[Who am I?]
 ## Who am <span class="green">I</span>?
