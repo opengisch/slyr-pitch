@@ -93,10 +93,10 @@ you to interact on every aspect of symbols.
 
 ---
 @title[How Could We Do That?]
-## How Could We Do That?
+### How Could We Do That?
+By hand?
 ![factory](assets/images/chinese_factory.jpg)
 
-By hand?
 
 Note:
 The idea of converting them by hand never seemed to us to be a good idea. In
