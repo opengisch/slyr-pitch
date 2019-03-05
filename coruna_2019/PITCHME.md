@@ -39,11 +39,22 @@ businesses.
 ---
 @title[The Problem]
 ## The problem
+@div[left-50]
+<br>
 ![esri symbols](assets/images/esri_symbols.png)
+@divend
 
+@div[right-50]
+<br>
+@ul[brighten]
 - 1203 ESRI Symbols
 - Points, Lines, Polygons
 - Extensive use of ESRI Fonts
+@ulend
+@divend
+
+
+
 
 Note:
 It all started last year, when a client, a public administration who has
@@ -85,7 +96,7 @@ image inside or with multiple conversion steps.
 @divend
 
 @div[right-50]
-<br><br><br>
+<br>
 @ul[brighten]
 - Difficult to interpret binary files
 - Bad ArcGIS Python API for symbols
