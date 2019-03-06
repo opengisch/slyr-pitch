@@ -144,6 +144,8 @@ manually. We therefore decided to contribute with Nyall to the development of th
 @title[SLYR]
 ![factory](assets/images/slyr.png)
 
+https://github.com/nyalldawson/slyr/
+
 Note:
 
 +++
