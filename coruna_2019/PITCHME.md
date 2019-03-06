@@ -186,7 +186,7 @@ Note:
 +++
 @title[Demo]
 ## Demo
-![factory](assets/images/demo.png)
+![demo](assets/images/demo.jpg)
 
 Note:
 TODO: descrivere demo step by step
