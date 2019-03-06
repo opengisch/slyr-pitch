@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-<span class="byline green">International User Conference 2019, A Coruña - March 6, 2019</span>
+<span class="byline">QGIS International User Conference 2019, A Coruña - March 6, 2019</span>
 
 Note:
 Good morning, today I want to talk to you about a project to which we have contributed and
