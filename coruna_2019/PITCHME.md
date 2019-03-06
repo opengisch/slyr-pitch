@@ -198,11 +198,16 @@ TODO: descrivere demo step by step
 - Spread the word
 - Support development
 
+https://github.com/nyalldawson/slyr/
+
 Note:
 
 ---
 @title[Conclusions]
 ## <span class="green">Conclusions</span>
+- Simplify switch from ESRI to <span class="green">QGIS</span>
+- Better understanding of ESRI binary files
+- MXD projects in the future?
 
 Note:
 SLYR provides a very important tool that can greatly simplify the life of those
