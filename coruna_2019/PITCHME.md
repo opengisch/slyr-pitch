@@ -148,18 +148,18 @@ https://github.com/nyalldawson/slyr/
 
 Note:
 
+
 +++
 @title[Features]
 ## Features
-- features
-  - colors
-  - complete support for fill types
-  - complete support for line types except picture lines
-  - complete support for marker types
-  - conversion on fonts to svg
-  - conversion of pictures
-  - conversion of color ramps
-- available commands, plugins, processing toolbox
+- complete support for fill types
+- complete support for line types except picture lines
+- complete support for marker types
+- conversion on fonts to svg
+- conversion of pictures
+- almost complete support for colors
+- conversion of color ramps
+- available as python scripts or QGIS processing algorithms
 
 Note:
 
@@ -181,13 +181,12 @@ Note:
 - only supports .style files, which currently require ArcGIS to create. No
   direct LYR/MXD to QGIS conversion without ESRI software (yet)
 - requires the mdbtools library to read the .style database - it's a bit of a
-pain to install on some platforms.
+  pain to install on some platforms.
 
 +++
 @title[Demo]
 ## Demo
-
-TODO: Immagine QGIS?
+![factory](assets/images/demo.png)
 
 Note:
 TODO: descrivere demo step by step
