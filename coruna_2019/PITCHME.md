@@ -50,15 +50,10 @@ businesses.
 
 @div[right-50]
 <br>
-@ul[brighten]
 - 1203 ESRI Symbols
 - Points, Lines, Polygons
 - Extensive use of ESRI Fonts
-@ulend
 @divend
-
-
-
 
 Note:
 It all started last year, when a client, a public administration who has
@@ -187,8 +182,11 @@ pain to install on some platforms.
 +++
 @title[Demo]
 ## Demo
-???
+
+TODO: Immagine QGIS?
+
 Note:
+TODO: descrivere demo step by step
 
 ---
 @title[How To Contribute]
