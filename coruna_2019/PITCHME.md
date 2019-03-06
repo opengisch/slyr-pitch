@@ -185,7 +185,6 @@ Note:
 
 +++
 @title[Demo]
-## Demo
 ![demo](assets/images/demo.jpg)
 
 Note:
