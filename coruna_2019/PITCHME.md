@@ -50,11 +50,11 @@ businesses.
 
 @div[right-50]
 <br>
-@ol[](false)
+@ul[](false)
 - 1203 ESRI Symbols
 - Points, Lines, Polygons
 - Extensive use of ESRI Fonts
-@olend
+@ulend
 @divend
 
 Note:
