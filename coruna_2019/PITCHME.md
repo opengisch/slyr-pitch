@@ -194,8 +194,10 @@ TODO: descrivere demo step by step
 @title[How To Contribute]
 ## How To Contribute
 - Use it
-- TODO: Aiuta a farlo conoscere, 
-- TODO: Finanzia nuovi sviluppi
+- Give feedback
+- Spread the word
+- Support development
+
 Note:
 
 ---
