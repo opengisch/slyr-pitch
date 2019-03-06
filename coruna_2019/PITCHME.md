@@ -42,7 +42,7 @@ businesses.
 
 ---
 @title[The Problem]
-## The problem
+## <span class="green">The problem</span>
 @div[left-50]
 <br>
 ![esri symbols](assets/images/esri_symbols.png)
@@ -66,7 +66,7 @@ for points, lines, and polygons and makes extensive use of ESRI fonts.
 
 ---
 @title[Requirements]
-## Requirements
+## <span class="green">Requirements</slyr>
 - QGIS XML Library with all the symbols
 - No proprietary fonts
 
@@ -77,7 +77,7 @@ all symbols using ESRI characters will have to be converted in some way.
 
 ---
 @title[Difficulties]
-## Difficulties
+## <span class="green">Difficulties</span>
 - No tools with the required quality
 
 Note:
@@ -89,7 +89,7 @@ image inside or with multiple conversion steps.
 
 ---
 @title[ESRI Symbols]
-## ESRI Symbols
+## ESRI <span class="green">Symbols</span>
 
 @div[left-50]
 <br>
@@ -112,7 +112,7 @@ you to interact on every aspect of symbols.
 
 ---
 @title[How Could We Do That?]
-### How Could We Do That?
+### How Could We <span class="green">Do That?</span>
 By hand?  
 ![factory](assets/images/chinese_factory.jpg)
 
@@ -151,7 +151,7 @@ Note:
 
 +++
 @title[Features]
-## Features
+## <span class="green">Features</span>
 - complete support for fill types
 - complete support for line types except picture lines
 - complete support for marker types
@@ -192,7 +192,7 @@ TODO: descrivere demo step by step
 
 ---
 @title[How To Contribute]
-## How To Contribute
+## How To <span class="green">Contribute</span>
 - Use it
 - Give feedback
 - Spread the word
@@ -202,7 +202,7 @@ Note:
 
 ---
 @title[Conclusions]
-## Conclusions
+## <span class="green">Conclusions</span>
 
 Note:
 SLYR provides a very important tool that can greatly simplify the life of those
