@@ -129,7 +129,7 @@ correctly interpreting the binary symbols and to recreate them in QGIS.
 ---
 @title[ESRI Style Specs]
 ## ESRI Style Specs
-TODO: Nyall picture
+![Esri Style Specs](assets/images/esri_style_specs.png)
 
 Note:
 We remembered that Nyall had started working on a project to try to read and
