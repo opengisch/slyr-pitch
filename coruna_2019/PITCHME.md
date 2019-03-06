@@ -98,7 +98,7 @@ image inside or with multiple conversion steps.
 
 @div[right-50]
 <br>
-@ul[brighten]
+@ul[](false)
 - Difficult to interpret binary files
 - Bad ArcGIS Python API for symbols
 @ulend
