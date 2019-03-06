@@ -188,7 +188,9 @@ Note:
 ![demo](assets/images/demo.jpg)
 
 Note:
-TODO: descrivere demo step by step
+- There are 2 new algorithms in the processing toolbox, one for converting color palettes stored in style files to the standard GPL color palette text format.
+- The other one to convert style files to QGS xml 
+- We can try this one
 
 ---
 @title[How To Contribute]
